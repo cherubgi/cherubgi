@@ -1,1 +1,1 @@
-![profileviews]( https://komarev.com/ghpvc/?username=cherubgi&style=PLASTIC&color=FCD2AF&label=CHERUBS)
+![profileviews]( https://komarev.com/ghpvc/?username=cherubgi&style=PLASTIC&color=FFC9D6&label=CHERUBS)
